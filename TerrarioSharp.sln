@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrarioSharp", "TerrarioSharp\TerrarioSharp.csproj", "{548A7281-F9C5-4CEF-A15E-B74E364FEC48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrarioSharp.Test", "TerrarioSharp.Test\TerrarioSharp.Test.csproj", "{51E7EC01-EF63-4F6C-AC60-0787ED1FAF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548A7281-F9C5-4CEF-A15E-B74E364FEC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A7281-F9C5-4CEF-A15E-B74E364FEC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A7281-F9C5-4CEF-A15E-B74E364FEC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A7281-F9C5-4CEF-A15E-B74E364FEC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CCD985-8533-4D0D-BA3F-92B5EED96865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CCD985-8533-4D0D-BA3F-92B5EED96865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CCD985-8533-4D0D-BA3F-92B5EED96865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CCD985-8533-4D0D-BA3F-92B5EED96865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E7EC01-EF63-4F6C-AC60-0787ED1FAF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E7EC01-EF63-4F6C-AC60-0787ED1FAF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E7EC01-EF63-4F6C-AC60-0787ED1FAF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E7EC01-EF63-4F6C-AC60-0787ED1FAF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
